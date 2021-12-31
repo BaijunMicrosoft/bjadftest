@@ -1,0 +1,9 @@
+{
+	"name": "bjgitadftest",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83a34811-8dbf-4901-9d87-bdb70473ec8d",
+		"tenantId": "11271f3d-3800-4655-ba64-01957965b2ae"
+	}
+}
